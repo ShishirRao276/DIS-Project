@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HellowWorldConsoleApp/1.0.0": {
+        "runtime": {
+          "HellowWorldConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HellowWorldConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

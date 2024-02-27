@@ -1,0 +1,15 @@
+C:\Users\navee\Desktop\BAIS\DIS\Repos\DIS-Project\HellowWorldConsoleApp\bin\Debug\net8.0\HellowWorldConsoleApp.exe
+C:\Users\navee\Desktop\BAIS\DIS\Repos\DIS-Project\HellowWorldConsoleApp\bin\Debug\net8.0\HellowWorldConsoleApp.deps.json
+C:\Users\navee\Desktop\BAIS\DIS\Repos\DIS-Project\HellowWorldConsoleApp\bin\Debug\net8.0\HellowWorldConsoleApp.runtimeconfig.json
+C:\Users\navee\Desktop\BAIS\DIS\Repos\DIS-Project\HellowWorldConsoleApp\bin\Debug\net8.0\HellowWorldConsoleApp.dll
+C:\Users\navee\Desktop\BAIS\DIS\Repos\DIS-Project\HellowWorldConsoleApp\bin\Debug\net8.0\HellowWorldConsoleApp.pdb
+C:\Users\navee\Desktop\BAIS\DIS\Repos\DIS-Project\HellowWorldConsoleApp\obj\Debug\net8.0\HellowWorldConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navee\Desktop\BAIS\DIS\Repos\DIS-Project\HellowWorldConsoleApp\obj\Debug\net8.0\HellowWorldConsoleApp.AssemblyInfoInputs.cache
+C:\Users\navee\Desktop\BAIS\DIS\Repos\DIS-Project\HellowWorldConsoleApp\obj\Debug\net8.0\HellowWorldConsoleApp.AssemblyInfo.cs
+C:\Users\navee\Desktop\BAIS\DIS\Repos\DIS-Project\HellowWorldConsoleApp\obj\Debug\net8.0\HellowWorldConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\navee\Desktop\BAIS\DIS\Repos\DIS-Project\HellowWorldConsoleApp\obj\Debug\net8.0\HellowWorldConsoleApp.sourcelink.json
+C:\Users\navee\Desktop\BAIS\DIS\Repos\DIS-Project\HellowWorldConsoleApp\obj\Debug\net8.0\HellowWorldConsoleApp.dll
+C:\Users\navee\Desktop\BAIS\DIS\Repos\DIS-Project\HellowWorldConsoleApp\obj\Debug\net8.0\refint\HellowWorldConsoleApp.dll
+C:\Users\navee\Desktop\BAIS\DIS\Repos\DIS-Project\HellowWorldConsoleApp\obj\Debug\net8.0\HellowWorldConsoleApp.pdb
+C:\Users\navee\Desktop\BAIS\DIS\Repos\DIS-Project\HellowWorldConsoleApp\obj\Debug\net8.0\HellowWorldConsoleApp.genruntimeconfig.cache
+C:\Users\navee\Desktop\BAIS\DIS\Repos\DIS-Project\HellowWorldConsoleApp\obj\Debug\net8.0\ref\HellowWorldConsoleApp.dll
